@@ -1,21 +1,26 @@
-# Move-it
-
-<h2 align="center">
-🚀 Work in progress...
-</h2>
+<h1 align="center">
+    Move-it
+</h1>
 
 </br>
 
-### Demonstration
+## 🚀 Getting started
 
----
-
-First, run the development server:
+Clone the project and access the folder
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone https://github.com/wmalcantara/move-it.git 
+# and
+$ cd move-it
+```
+
+Follow the steps below
+```bash
+# Install the dependencies
+$ yarn
+
+# Start the project
+$ yarn dev
 ```
 
 Open [localhost:3000](http://localhost:3000) with your browser.
@@ -23,9 +28,9 @@ Open [localhost:3000](http://localhost:3000) with your browser.
 Or you just can go to [Move-it Deployed](https://move-it-wmalcantara.vercel.app)
 
 
-### 🛠 Technologies
+## 🧪 Technologies
+This project was developed using the following technologies:
 
----
 - [CSS](https://www.w3schools.com/Css/)
 - [React.js](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
@@ -33,9 +38,7 @@ Or you just can go to [Move-it Deployed](https://move-it-wmalcantara.vercel.app)
 - [JS-Cookie](https://github.com/js-cookie/js-cookie)
 
 
-### Author
-
----
+## Author
 
 <a href="https://www.linkedin.com/in/walteralcantara">
     <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62845650?s=460&u=536d7505af5721e2227c1cce3fcce772a43107c0&v=4" width="100px;" alt="Walter's Photo"/>
